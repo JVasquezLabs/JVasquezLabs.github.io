@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-31T22:10:15-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jonathan Vasquez</title><subtitle>A showcase of my Product Management work, project execution, fintech innovation, and agile leadership.</subtitle><entry><title type="html">Welcome to Jekyll</title><link href="http://localhost:4000/case-studies/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll" /><published>2025-01-31T00:00:00-05:00</published><updated>2025-01-31T00:00:00-05:00</updated><id>http://localhost:4000/case-studies/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/case-studies/welcome-to-jekyll/"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Optimizing the Mortgage Appraisal Workflow at MegaLoans</title><link href="http://localhost:4000/case-studies/mortgage-lending-appraisal-case-study/" rel="alternate" type="text/html" title="Optimizing the Mortgage Appraisal Workflow at MegaLoans" /><published>2024-02-01T00:00:00-05:00</published><updated>2024-02-01T00:00:00-05:00</updated><id>http://localhost:4000/case-studies/mortgage-lending-appraisal-case-study</id><content type="html" xml:base="http://localhost:4000/case-studies/mortgage-lending-appraisal-case-study/"><![CDATA[<h1 id="-case-study-optimizing-the-mortgage-appraisal-workflow-at-megaloans"><strong>📌 Case Study: Optimizing the Mortgage Appraisal Workflow at MegaLoans</strong></h1>
+
+<h2 id="-overview"><strong>🔹 Overview</strong></h2>
+<p>🚀 <strong>Challenge:</strong> Appraisal delays led to <strong>rate lock extensions</strong>, increased costs, and <strong>lost revenue</strong>.<br />
+📈 <strong>Solution:</strong> Automated scheduling, real-time tracking, and vendor optimization.<br />
+🏆 <strong>Results:</strong> Reduced time to close by <strong>4 days</strong>, cut internal effort by <strong>15%</strong>, and <strong>improved customer satisfaction</strong>.</p>
+
+<hr />
+
+<h2 id="-background"><strong>📍 Background</strong></h2>
+<p>MegaLoans is a digital mortgage lender focused on <strong>streamlining home loans</strong> through technology and automation. During the <strong>2020/21 refinance boom</strong>, the company faced a critical challenge: <strong>appraisal delays were increasing operational costs and reducing profitability</strong>.</p>
+
+<p><strong>Key Issue:</strong> The appraisal process suffered from inefficiencies that triggered <strong>frequent rate lock extensions</strong>, forcing MegaLoans to <strong>honor lower interest rates</strong>, despite market fluctuations.</p>
+
+<hr />
+
+<h2 id="-the-problem-rate-lock-extensions-were-costing-millions"><strong>🚨 The Problem: Rate Lock Extensions Were Costing Millions</strong></h2>
+<p>The mortgage industry saw a <strong>surge in refinancing applications</strong> due to historically low interest rates. However, <strong>bottlenecks in the appraisal process</strong> created significant delays.</p>
+
+<h3 id="-business-impact"><strong>🔻 Business Impact</strong></h3>
+<p>❌ <strong>Revenue Loss</strong>: Rate lock extensions shrank MegaLoans’ profit margins.<br />
+❌ <strong>Operational Bottlenecks</strong>: Underwriters and loan processors spent excessive time chasing appraisals.<br />
+❌ <strong>Customer Frustration</strong>: Extended closing times led to increased complaints and drop-offs.</p>
+
+<p><strong>To address these issues, I led a cross-functional initiative to optimize the appraisal workflow.</strong></p>
+
+<hr />
+
+<h2 id="-solution-a-data-driven-approach"><strong>📊 Solution: A Data-Driven Approach</strong></h2>
+<p>To resolve appraisal inefficiencies, I implemented a <strong>three-phase strategy:</strong></p>
+
+<h3 id="1️⃣-diagnosing-the-problem"><strong>1️⃣ Diagnosing the Problem</strong></h3>
+<p>📌 Conducted stakeholder interviews with <strong>loan officers, underwriters, and operations teams</strong> to map the <strong>end-to-end appraisal process</strong>.<br />
+📌 Identified <strong>key bottlenecks</strong>, including:</p>
+<ul>
+  <li><strong>Manual scheduling inefficiencies</strong></li>
+  <li><strong>Lack of real-time tracking for appraisal status</strong></li>
+  <li><strong>Unpredictable turnaround times from third-party vendors</strong></li>
+</ul>
+
+<h3 id="2️⃣-designing-the-strategy"><strong>2️⃣ Designing the Strategy</strong></h3>
+<p>✅ <strong>Vendor Evaluation</strong> – Assessed multiple <strong>appraisal management platforms</strong> to determine the best integration.<br />
+✅ <strong>Workflow Automation</strong> – Partnered with engineering to implement <strong>automated scheduling &amp; tracking</strong>.<br />
+✅ <strong>Data-Driven Optimization</strong> – Established <strong>tracking metrics</strong> to monitor <strong>appraisal turnaround times</strong> and select high-performing vendors.<br />
+✅ <strong>Regulatory Compliance</strong> – Ensured changes aligned with <strong>mortgage industry regulations</strong>.</p>
+
+<h3 id="3️⃣-execution--implementation"><strong>3️⃣ Execution &amp; Implementation</strong></h3>
+<p>🚀 <strong>Delivered Key Upgrades:</strong></p>
+<ul>
+  <li><strong>Automated Appraisal Scheduling</strong> → Eliminated manual coordination, accelerating the process.</li>
+  <li><strong>Real-Time Tracking Dashboard</strong> → Provided instant visibility into appraisal status for loan officers.</li>
+  <li><strong>Vendor SLAs &amp; A/B Testing</strong> → Negotiated agreements with vendors for <strong>faster &amp; more predictable</strong> turnaround times.</li>
+</ul>
+
+<hr />
+
+<h2 id="-results--measurable-impact"><strong>📈 Results &amp; Measurable Impact</strong></h2>
+<h3 id="-key-outcomes"><strong>🏆 Key Outcomes</strong></h3>
+<p>✅ <strong>Reduced Time to Close</strong> by <strong>4 Days</strong><br />
+✅ <strong>Decreased Internal Effort by 15%</strong>, freeing up underwriting capacity<br />
+✅ <strong>Fewer Rate Lock Extensions</strong>, increasing profitability per loan<br />
+✅ <strong>Improved Borrower Experience</strong>, reducing complaints &amp; drop-offs</p>
+
+<hr />
+
+<h2 id="-key-learnings"><strong>🔑 Key Learnings</strong></h2>
+<p>📌 <strong>Automating repetitive processes</strong> leads to massive efficiency gains.<br />
+📌 <strong>Real-time tracking &amp; visibility</strong> improves operational alignment.<br />
+📌 <strong>Vendor partnerships require active management</strong> to maintain <strong>consistent SLAs</strong>.<br />
+📌 <strong>Customer experience &amp; operational efficiency</strong> are deeply interconnected.</p>
+
+<hr />
+
+<h2 id="-conclusion-scaling-this-success"><strong>📢 Conclusion: Scaling This Success</strong></h2>
+<p>This initiative <strong>transformed MegaLoans’ mortgage operations</strong>, proving the power of <strong>data-driven decision-making, automation, and process optimization</strong> in fintech product management.</p>
+
+<p>🚀 The framework developed in this project has since been scaled to optimize additional workflows across MegaLoans’ lending platform—reinforcing the company’s mission of <strong>making home loans faster and simpler</strong>.</p>
+
+<hr />]]></content><author><name></name></author><category term="Fintech" /><category term="Product Management" /><summary type="html"><![CDATA[How workflow automation reduced MegaLoans’ time to close by 4 days, decreased rate lock extensions, and improved profitability.]]></summary></entry></feed>
