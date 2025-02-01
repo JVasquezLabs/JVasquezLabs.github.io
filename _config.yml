@@ -1,0 +1,36 @@
+# Site settings
+title: Jonathan Vasquez
+email: jonathan@jvasquez.net
+description: A showcase of my Product Management work, project execution, fintech innovation, and agile leadership.
+
+baseurl: ""  # Now correct for GitHub Pages root deployment
+url: "https://jvasquezlabs.github.io"  # Your GitHub Pages site URL
+
+twitter_username: none
+github_username: JVasquezLabs
+linkedin_username: JonathanVasquez
+
+# Theme settings
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+paginate: 5
+timezone: "America/New_York"
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+collections:
+  posts:
+    output: true
+    permalink: /case-studies/:title/
+    name: "Case Studies"  # Changes the label from "Posts" to "Case Studies"
+
+    # Site Navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Case Studies"
+    url: "/case-studies/"
+  - title: "About"
+    url: "/about/"
+
