@@ -33,4 +33,10 @@ navigation:
     url: "/case-studies/"
   - title: "About"
     url: "/about/"
+minimal_mistakes_skin: "default"
+include: 
+  - _pages
+  - css/custom.css
+
+
 

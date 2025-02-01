@@ -4,10 +4,19 @@ title: "Case Studies"
 permalink: /case-studies/
 ---
 
+<style>
+@import url('{{ "/css/custom.css" | relative_url }}');
+</style>
+
 # 📂 Case Studies
 
-Real-world examples of **product management success**, including workflow automation, fintech innovation, and customer experience improvements.
+Explore real-world examples of **product management success**, including workflow automation, fintech innovation, and customer experience improvements.
 
 {% for post in site.posts %}
-- **[{{ post.title }}]({{ post.url }})** - {{ post.excerpt }}
+<div class="case-study">
+  <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+  <p>{{ post.excerpt }}</p>
+  <a href="{{ post.url | relative_url }}" class="read-more">Read More →</a>
+</div>
+<hr>
 {% endfor %}
