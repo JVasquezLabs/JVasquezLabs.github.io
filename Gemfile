@@ -18,3 +18,5 @@ end
 
 # Performance booster for Windows
 gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
+
+gem "faraday-retry", "~> 2.2"
