@@ -1,8 +1,8 @@
+# _data/navigation.yml
 main:
   - title: "Home"
     url: /
   - title: "Case Studies"
     url: /case-studies/
-  - title: "About"
-    url: /about/
-
+  # - title: "About"
+  #   url: /about/

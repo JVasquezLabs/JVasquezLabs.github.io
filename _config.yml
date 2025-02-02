@@ -1,5 +1,5 @@
 # Site Settings
-title: "Jonathan Vasquez | Product Manager"
+title: "Jonathan Vasquez | Product Leader"
 email: "jonathan@jvasquez.net"
 description: "A showcase of my Product Management work, project execution, fintech innovation, and agile leadership."
 
@@ -65,4 +65,4 @@ author:
       url: "https://github.com/JVasquezLabs"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/jonathanvasquez"
+      url: "https://linkedin.com/in/jonathanjvasquez"
