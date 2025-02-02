@@ -12,6 +12,9 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
+sass:
+  sass_dir: _sass
+  style: compressed
 
 # Navigation Menu (Sidebar)
 navigation:

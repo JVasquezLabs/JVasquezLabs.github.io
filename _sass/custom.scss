@@ -1,0 +1,26 @@
+// Import Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+// Override link colors
+$link-color: #ff6600;
+$link-hover-color: #cc4400;
+
+// Set default font for body text and headers
+$body-font-family: 'Roboto', sans-serif !important;
+$header-font-family: 'Roboto', sans-serif !important;
+
+// Apply font sitewide
+body {
+  font-size: 18px;
+  font-family: $body-font-family;
+}
+
+// Ensure all headers use Roboto
+h1, h2, h3, h4, h5, h6 {
+  font-family: $header-font-family;
+}
+
+// Apply font to common elements
+p, a, span, div, li, blockquote {
+  font-family: $body-font-family;
+}

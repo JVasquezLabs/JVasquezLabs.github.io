@@ -1,17 +1,19 @@
 ---
 layout: post
-title: "Improving Investment Predictability at Equity Loop"
+title: "Exercise: Improving Investment Predictability"
 date: 2025-01-01
 categories: [Fintech, Product Management]
-excerpt: "How automation and third-party integrations improved investment decision speed and predictability at Equity Loop."
+excerpt: "How automation and third-party integrations improved investment decision speed and predictability at WealthTap."
 ---
 
 ## **🏦 Background**  
-**Equity Loop** is a financial technology company that provides homeowners with alternative investment solutions. A core challenge for the company was the **uncertainty surrounding investment decision timelines**, which impacted customer satisfaction, operational efficiency, and sales forecasting.
+This case study was developed as part of a **product management interview exercise**, where I analyzed company specific challenges, defined a solution strategy, and outlined execution steps to improve investment predictability.
 
-This case study was developed as part of a **product management interview exercise**, where I analyzed industry challenges, defined a solution strategy, and outlined execution steps to improve investment predictability.
+**WealthTap** is a financial technology company that provides homeowners with alternatives to HELOCs and Refinance loans in the form of Home Equity Investments (HEI). A core challenge for the company was the **uncertainty surrounding HEI decision timelines**, which impacted customer satisfaction, operational efficiency, and sales forecasting.
 
-📄 **View My Full Response:** [Download Here](INSERT_LINK_TO_PDF)
+
+
+📄 **View My Full Response:** <a href="/assets/Interview-Panel-Presentation-JonathanVasquez.pdf" target="_blank" rel="noopener noreferrer">Download Here</a>
 
 ---
 
@@ -63,11 +65,11 @@ This case study was developed as part of a **product management interview exerci
 ---
 
 ## **🔍 Key Learnings**  
-📌 **Automation is critical** for improving speed and efficiency.  
-📌 **Integrating third-party services early** reduces bottlenecks.  
-📌 **Clear timeline communication** increases customer trust and conversions.  
+📌 **Strategic automation eliminates inefficiencies**, accelerates workflows, and reduces manual effort.  
+📌 **Early integration of third-party services prevents bottlenecks** and enhances data accuracy.  
+📌 **Proactive timeline communication builds trust**, improves conversion rates, and enhances customer satisfaction.
 
 ---
 
 ## **🏁 Conclusion**  
-This initiative provided **Equity Loop** with a **scalable, data-driven approach** to improving investment decision timelines. By integrating automation and third-party services, the company enhanced **operational efficiency, customer experience, and revenue predictability**. This framework can also serve as a foundation for further innovation in financial technology.  
+This initiative provided **WealthTap** with a **scalable, data-driven approach** to improving investment decision timelines. By integrating automation and third-party services, the company enhanced **operational efficiency, customer experience, and revenue predictability**. This framework can also serve as a foundation for further innovation in financial technology.  

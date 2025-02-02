@@ -1,10 +1,9 @@
 ---
 layout: single
-title: "Case Studies | Jonathan Vasquez"
+title: "📂 Case Studies"
 permalink: /case-studies/
 ---
 
-## **📂 Case Studies**
 🔍 Below is a collection of **detailed case studies** showcasing my expertise in **FinTech, PropTech, and Product Management**.
 
 Each case study includes **key insights, workflow optimizations, and product strategies** that drove real business impact.
