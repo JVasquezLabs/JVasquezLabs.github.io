@@ -1,6 +1,6 @@
 ---
 layout: single
-#title: "Jonathan Vasquez | FinTech Product Leader"
+title: "A little bit about me..."
 permalink: /
 header:
   overlay_image: /assets/images/header-bg.jpg  # Add an image here

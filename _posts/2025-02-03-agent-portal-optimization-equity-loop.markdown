@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Optimizing the Agent Portal at Equity Loop"
-date: 2025-02-03
+date: 2025-02-01
 categories: [Proptech, Product Management]
 excerpt: "How revamping the agent portal increased agent engagement by 35%, reduced support tickets by 40%, and accelerated deal closures."
 ---
