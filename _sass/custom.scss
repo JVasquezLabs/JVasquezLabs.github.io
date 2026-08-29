@@ -60,6 +60,31 @@ a {
   }
 }
 
+// The theme reserves a permanent right-hand gutter on `.page` at the
+// $large/$x-large breakpoints for an optional table-of-contents sidebar
+// (page.toc). This site never sets page.toc, so that gutter was just
+// wasted space that also caused a sudden width jump right at 1024px.
+// Only fall back to the reserved gutter on the rare page that opts into
+// a TOC.
+.page {
+  float: none;
+  width: 100%;
+  padding-right: 0;
+
+  &:has(.sidebar__right) {
+    @include breakpoint($large) {
+      float: right;
+      width: calc(100% - #{$right-sidebar-width-narrow});
+      padding-right: $right-sidebar-width-narrow;
+    }
+
+    @include breakpoint($x-large) {
+      width: calc(100% - #{$right-sidebar-width});
+      padding-right: $right-sidebar-width;
+    }
+  }
+}
+
 // Theme's masthead nav resolves its link color via a Sass variable set
 // before this file loads, so it needs a direct override to pick up the
 // new palette.
