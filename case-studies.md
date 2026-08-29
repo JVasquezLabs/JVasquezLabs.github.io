@@ -9,6 +9,7 @@ Below is a collection of detailed case studies showcasing my expertise in **FinT
 <ul class="case-study-grid">
   {% for post in site.posts %}
   <li class="case-study-card">
+    <span class="category-pill">{{ post.categories | first }}</span>
     <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
     <p>{{ post.excerpt | strip_html }}</p>
   </li>

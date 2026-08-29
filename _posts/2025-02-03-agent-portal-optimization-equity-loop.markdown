@@ -4,7 +4,15 @@ title: "Project: Optimizing the Agent Partner Portal"
 date: 2025-02-01
 categories: [Proptech, Product Management]
 excerpt: "Revamping a partner portal increased agent engagement by 35%, reduced support tickets by 40%, and accelerated deal closures."
+toc: true
+toc_sticky: true
 ---
+
+<div class="stat-row">
+  <div class="stat-tile"><span class="stat-tile__number">35%</span><span class="stat-tile__label">Agent engagement</span></div>
+  <div class="stat-tile"><span class="stat-tile__number">40%</span><span class="stat-tile__label">Fewer support tickets</span></div>
+  <div class="stat-tile"><span class="stat-tile__number">25%</span><span class="stat-tile__label">Repeat agent retention</span></div>
+</div>
 
 ## Background
 **MegaLoans** enables real estate agents to submit deals for refinancing and home equity investments on behalf of their clients. However, the **agent portal** had significant usability issues, leading to **low engagement and high friction** in submitting deals.

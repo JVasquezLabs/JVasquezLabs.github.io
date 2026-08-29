@@ -4,6 +4,8 @@ title: "Exercise: Improving Investment Predictability"
 date: 2025-02-01
 categories: [Fintech, Product Management]
 excerpt: "How automation and third-party integrations improved investment decision speed and predictability at WealthTap."
+toc: true
+toc_sticky: true
 ---
 
 ## Background

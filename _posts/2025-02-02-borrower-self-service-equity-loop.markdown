@@ -4,7 +4,16 @@ title: "Enhancing Borrower Self-Service at Equity Loop"
 date: 2025-02-15
 categories: [Fintech, Product Management]
 excerpt: "How workflow automation increased appraisal completions by 20%, reduced customer support inquiries by 30%, and accelerated time-to-funding by 7%."
+toc: true
+toc_sticky: true
 ---
+
+<div class="stat-row">
+  <div class="stat-tile"><span class="stat-tile__number">20%</span><span class="stat-tile__label">More completed applications</span></div>
+  <div class="stat-tile"><span class="stat-tile__number">30%</span><span class="stat-tile__label">Fewer support inquiries</span></div>
+  <div class="stat-tile"><span class="stat-tile__number">7%</span><span class="stat-tile__label">Faster time-to-funding</span></div>
+  <div class="stat-tile"><span class="stat-tile__number">4.9&#9733;</span><span class="stat-tile__label">Trustpilot rating</span></div>
+</div>
 
 ## Background
 **Equity Loop** is a home equity investment (HEI) company that helps homeowners access liquidity by selling a percentage of their home's future appreciation. However, **borrower drop-off rates** were high due to **friction in the onboarding and appraisal process**.
