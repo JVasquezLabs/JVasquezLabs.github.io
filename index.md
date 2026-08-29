@@ -8,7 +8,7 @@ header:
   #caption: "Transforming Real Estate and FinTech Through Innovation"
 ---
 
-At **Red Ventures**, I lead a product portfolio spanning **borrower experience, loan operations, and sales technology** across purchase, refinance, and HELOC lending — including point-of-sale conversion, automated underwriting, credit workflows, capital markets, and **AI systems that take actions, not just produce outputs**.
+In my current role, I lead a product portfolio spanning **borrower experience, loan operations, and sales technology** across purchase, refinance, and HELOC lending — including point-of-sale conversion, automated underwriting, credit workflows, capital markets, and **AI systems that take actions, not just produce outputs**.
 
 My work sits at the intersection of competing constraints: **borrower experience, fulfillment efficiency, credit economics, compliance, investor eligibility, and engineering capacity**.
 
@@ -16,14 +16,14 @@ My work sits at the intersection of competing constraints: **borrower experience
 <span class="highlight-pill">AI-Powered Product Development</span> <span class="highlight-pill">Product Org Leadership</span> <span class="highlight-pill">Growth &amp; Experimentation</span>
 
 - **AI-Powered Product Development** — Shipped an agentic underwriting engine and an LLM-powered chat sales assistant, cutting underwriting review time by **50%** and driving a **~40%** conversion improvement across point-of-sale flows.
-- **Product Org Leadership** — Own strategy and roadmap for a 9-person, three-pod organization; hire, level, and coach a 2-person PM team while partnering with engineering leadership on execution.
+- **Product Org Leadership** — Own strategy and roadmap for a multi-pod product organization; hire, level, and coach the PM team while partnering with engineering leadership on execution.
 - **Growth & Experimentation** — Run A/B and multivariate testing across the funnel; delivered **$6M** in incremental profit and a **9.7%** lift in lead conversion.
 
 ### Notable Highlights
-- **Group Product Manager @ Red Ventures / Sage Home Loans (Current)** — Own product strategy and roadmap for a 9-person, three-pod organization (2 PMs + 7 engineers) spanning the B2C lending funnel; directly manage and coach the PM team, partnering with engineering leadership on execution. Built an agentic loan application workflow, delivered **$6M** in incremental profit, and am driving a **~40%** conversion improvement across point-of-sale flows.
-- **Principal Product Manager @ Hometap (B2C)** — Increased pre-qualified lead conversion by **9.7%** (an estimated **$400K**/month revenue impact), built an FCRA-compliant risk-qualification flow that enabled **$436M** in securitizations, and increased retention by **7%**.
-- **Senior Product Manager @ Beeline (B2B/B2C)** — First US-based Product hire. Launched a 0-to-1 Mortgage POS System and built TILES, a mortgage eClosing SaaS platform projected to process **$1.5B**.
-- **Product Management Consultant @ Slalom** — Delivered a trade compliance reporting solution aligned with European Securities and Markets Authority (ESMA) requirements, and led emergency development of a patient self-service portal that handled 1,200 daily inquiries during the pandemic.
+- **Current Role (B2C Lending)** — Own product strategy and roadmap for a multi-pod team spanning the B2C lending funnel; manage and coach the PM team while partnering with engineering leadership on execution. Built an agentic loan application workflow, delivered **$6M** in incremental profit, and am driving a **~40%** conversion improvement across point-of-sale flows.
+- **Prior Role — Growth & Customer Experience (B2C FinTech)** — Increased pre-qualified lead conversion by **9.7%** (an estimated **$400K**/month revenue impact), built an FCRA-compliant risk-qualification flow that enabled **$436M** in securitizations, and increased retention by **7%**.
+- **Prior Role — Borrower Experience & Operations (B2B/B2C FinTech)** — First product hire on the team. Launched a 0-to-1 mortgage point-of-sale system and built a mortgage eClosing SaaS platform projected to process **$1.5B**.
+- **Prior Role — Product Consulting (BFSI & Healthcare)** — Delivered a trade compliance reporting solution aligned with European Securities and Markets Authority (ESMA) requirements, and led emergency development of a patient self-service portal that handled 1,200 daily inquiries during the pandemic.
 
 ### Let's Connect
 I care about building products that move real business metrics, not just ship features. If you're tackling hard problems in fintech, proptech, or AI-driven decisioning, let's talk.

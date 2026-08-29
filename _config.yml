@@ -1,7 +1,7 @@
 # Site Settings
 title: "Jonathan Vasquez | Product Leader"
 email: "jonathan@jvasquez.net"
-description: "Group Product Manager building AI-powered lending products — borrower experience, underwriting automation, and growth across purchase, refinance, and HELOC lending."
+description: "Product leader building AI-powered lending products — borrower experience, underwriting automation, and growth across purchase, refinance, and HELOC lending."
 
 baseurl: "" # Change if your site is hosted in a subdirectory
 url: "https://jvasquezlabs.github.io"  # Your GitHub Pages site URL
@@ -57,7 +57,7 @@ defaults:
 author:
   name: "Jonathan Vasquez"
   avatar: "/assets/images/profile.jpg"
-  bio: "Group Product Manager building AI-powered lending products in FinTech."
+  bio: "Product leader building AI-powered lending products in FinTech."
   location: "Miami, FL"
   links:
     - label: "GitHub"
