@@ -4,7 +4,14 @@ title: "Optimizing the Mortgage Appraisal Workflow at MegaLoans"
 date: 2025-02-15
 categories: [Fintech, Product Management]
 excerpt: "How workflow automation reduced MegaLoans’ time to close by 4 days, decreased rate lock extensions, and improved profitability."
+toc: true
+toc_sticky: true
 ---
+
+<div class="stat-row">
+  <div class="stat-tile"><span class="stat-tile__number">4 days</span><span class="stat-tile__label">Faster time to close</span></div>
+  <div class="stat-tile"><span class="stat-tile__number">15%</span><span class="stat-tile__label">Reduced internal effort</span></div>
+</div>
 
 ## Background
 **MegaLoans** is a **digital mortgage lender** focused on streamlining the home loan process through **technology and automation**. During the **2020/21 refinance boom**, the company faced a **critical challenge** in its mortgage appraisal workflow that affected **operational efficiency and revenue**.
