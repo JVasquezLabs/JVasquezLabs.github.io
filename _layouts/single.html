@@ -7,13 +7,7 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
-  <div class="sidebar sticky">
-    {% if page.author_profile %}
-      {% include author-profile.html %}
-    {% endif %}
-    
-    {% include sidebar.html %}
-  </div>
+  {% include sidebar.html %}
 
   <article class="page">
     <header class="page__header">

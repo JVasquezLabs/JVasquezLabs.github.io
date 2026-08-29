@@ -146,3 +146,84 @@ a {
   font-weight: 600;
   font-size: 0.85em;
 }
+
+// Status pills + timeline list used on the roadmap page
+.status-pill {
+  display: inline-block;
+  padding: 0.2em 0.7em;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 0.78em;
+  white-space: nowrap;
+
+  &--done {
+    background: rgba(22, 163, 74, 0.12);
+    color: #15803d;
+  }
+
+  &--planned {
+    background: rgba(217, 119, 6, 0.12);
+    color: #b45309;
+  }
+
+  &--discovery {
+    background: rgba(100, 116, 139, 0.12);
+    color: #475569;
+  }
+
+  &--blocked {
+    background: rgba(220, 38, 38, 0.1);
+    color: #b91c1c;
+  }
+}
+
+.roadmap-list {
+  list-style: none;
+  margin: 2em 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.9em;
+}
+
+.roadmap-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5em 1em;
+  padding: 1.1em 1.4em;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
+  border-radius: 10px;
+
+  &--done { border-left-color: #16a34a; }
+  &--planned { border-left-color: #d97706; }
+  &--discovery { border-left-color: #64748b; }
+  &--blocked { border-left-color: #dc2626; }
+}
+
+.roadmap-item__main {
+  flex: 1 1 320px;
+}
+
+.roadmap-item__title {
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.roadmap-item__desc {
+  margin: 0.15em 0 0;
+  color: var(--ink-light);
+  font-size: 0.92em;
+}
+
+.roadmap-item__meta {
+  display: flex;
+  align-items: center;
+  gap: 0.6em;
+  font-size: 0.85em;
+  color: var(--ink-light);
+  white-space: nowrap;
+}
