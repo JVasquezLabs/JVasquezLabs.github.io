@@ -32,56 +32,8 @@ My work sits at the intersection of competing constraints: **borrower experience
 - **0-to-1 Product Launch (Mortgage Lending)** — First product hire on the team. Launched a 0-to-1 mortgage point-of-sale system and built a mortgage eClosing SaaS platform projected to process **$1.5B**.
 - **Regulatory & Compliance Product Strategy** — Delivered a trade compliance reporting solution aligned with European Securities and Markets Authority (ESMA) requirements, and led emergency development of a patient self-service portal that handled 1,200 daily inquiries during the pandemic.
 
-### Building in the Age of AI
-AI has made "product manager" and "builder" less distinct roles. I prototype the systems I'm proposing, not just the specs for them, using the same tools I ship to customers.
-
 <img src="https://ghchart.rshah.org/4f46e5/JVasquezLabs" alt="Jonathan Vasquez's GitHub contribution activity" class="github-chart" loading="lazy" onerror="this.style.display='none'; document.getElementById('github-chart-fallback').hidden=false;">
 <p id="github-chart-fallback" class="github-projects__status" hidden>Couldn't load live contribution data — <a href="https://github.com/JVasquezLabs">view my GitHub</a> directly.</p>
-
-**Recent Projects**
-
-<div class="case-study-grid" id="github-projects">
-  <p class="github-projects__status">Loading recent projects&hellip;</p>
-</div>
-
-<script>
-(function () {
-  var container = document.getElementById('github-projects');
-  if (!container) return;
-
-  fetch('https://api.github.com/users/JVasquezLabs/repos?sort=pushed&per_page=10')
-    .then(function (res) {
-      if (!res.ok) throw new Error('GitHub API error');
-      return res.json();
-    })
-    .then(function (repos) {
-      var featured = repos
-        .filter(function (r) { return !r.fork && r.name.toLowerCase() !== 'jvasquezlabs.github.io'; })
-        .slice(0, 3);
-
-      if (!featured.length) {
-        container.innerHTML = '<p class="github-projects__status">No public projects to show right now &mdash; <a href="https://github.com/JVasquezLabs">visit my GitHub</a>.</p>';
-        return;
-      }
-
-      container.innerHTML = featured.map(function (r) {
-        var name = r.name.replace(/[&<>]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]; });
-        var desc = (r.description || 'No description provided.').replace(/[&<>]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]; });
-        var updated = new Date(r.pushed_at).toLocaleDateString('en-US', { year: 'numeric', month: 'short' });
-        var langPill = r.language ? '<span class="category-pill">' + r.language + '</span>' : '';
-        return '<div class="case-study-card">' + langPill +
-          '<h3><a href="' + r.html_url + '" target="_blank" rel="noopener noreferrer">' + name + '</a></h3>' +
-          '<p>' + desc + '</p>' +
-          '<p class="project-card__meta">Updated ' + updated + '</p>' +
-          '</div>';
-      }).join('');
-    })
-    .catch(function () {
-      container.innerHTML = '<p class="github-projects__status">Couldn\'t load live project data &mdash; <a href="https://github.com/JVasquezLabs">view my GitHub</a> directly.</p>';
-    });
-})();
-</script>
-
 ### Let's Connect
 I care about building products that move real business metrics, not just ship features. If you're tackling hard problems in fintech, proptech, or AI-driven decisioning, let's talk.
 
