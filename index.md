@@ -34,7 +34,6 @@ My work sits at the intersection of competing constraints: **borrower experience
 
 <img src="https://ghchart.rshah.org/4f46e5/JVasquezLabs" alt="Jonathan Vasquez's GitHub contribution activity" class="github-chart" loading="lazy" onerror="this.style.display='none'; document.getElementById('github-chart-fallback').hidden=false;">
 <p id="github-chart-fallback" class="github-projects__status" hidden>Couldn't load live contribution data — <a href="https://github.com/JVasquezLabs">view my GitHub</a> directly.</p>
-
 ### Let's Connect
 I care about building products that move real business metrics, not just ship features. If you're tackling hard problems in fintech, proptech, or AI-driven decisioning, let's talk.
 
