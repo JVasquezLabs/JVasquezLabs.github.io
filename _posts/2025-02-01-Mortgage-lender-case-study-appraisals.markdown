@@ -4,8 +4,6 @@ title: "Optimizing the Mortgage Appraisal Workflow at MegaLoans"
 date: 2025-02-15
 categories: [Fintech, Product Management]
 excerpt: "How workflow automation reduced MegaLoans’ time to close by 4 days, decreased rate lock extensions, and improved profitability."
-toc: true
-toc_sticky: true
 ---
 
 <div class="stat-row">

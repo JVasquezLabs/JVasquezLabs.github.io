@@ -4,8 +4,6 @@ title: "Quick Win: Fixing Mortgage Disclosure to Reduce Loan Application Errors"
 date: 2025-02-02
 categories: [Proptech, Product Management]
 excerpt: "A small UX tweak reduced incorrect mortgage disclosures by 75%, improving data accuracy, streamlining sales, and accelerating loan processing."
-toc: true
-toc_sticky: true
 ---
 
 <div class="stat-row">

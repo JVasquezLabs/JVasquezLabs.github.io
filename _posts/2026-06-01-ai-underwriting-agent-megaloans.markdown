@@ -4,13 +4,11 @@ title: "Automating Loan Underwriting with an AI Agent at MegaLoans"
 date: 2026-06-01
 categories: [Fintech, Product Management]
 excerpt: "How an AI underwriting agent automated income, employment, and residency verification, cutting review time by 50%, scaling capacity to 1,000 loans a month, and driving a ~40% lift in conversion."
-toc: true
-toc_sticky: true
 ---
 
 <div class="stat-row">
   <div class="stat-tile"><span class="stat-tile__number">50%</span><span class="stat-tile__label">Faster underwriting review</span></div>
-  <div class="stat-tile"><span class="stat-tile__number">1,000/mo</span><span class="stat-tile__label">Loan processing capacity</span></div>
+  <div class="stat-tile"><span class="stat-tile__number">1,000</span><span class="stat-tile__label">Loans processed per month</span></div>
   <div class="stat-tile"><span class="stat-tile__number">~40%</span><span class="stat-tile__label">Conversion lift</span></div>
   <div class="stat-tile"><span class="stat-tile__number">$6M</span><span class="stat-tile__label">Incremental profit</span></div>
 </div>
