@@ -197,6 +197,29 @@ a {
   }
 }
 
+// GitHub contribution graph + recent-projects section
+.github-chart {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  margin: 1.25em 0;
+}
+
+.github-projects__status {
+  color: var(--ink-light);
+  font-style: italic;
+}
+
+.case-study-card .project-card__meta {
+  margin: 0.25em 0 0;
+  font-size: 0.8em;
+  color: var(--ink-light);
+}
+
 // Pill-style highlight used for short callouts (superpowers, highlights, etc.)
 .highlight-pill {
   display: inline-block;
