@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "A little bit about me..."
+title: "Product Leadership in FinTech & AI"
 permalink: /
 header:
   overlay_image: /assets/images/header-bg.jpg  # Add an image here
@@ -13,11 +13,11 @@ At **Red Ventures**, I lead a product portfolio spanning **borrower experience, 
 My work sits at the intersection of competing constraints: **borrower experience, fulfillment efficiency, credit economics, compliance, investor eligibility, and engineering capacity**.
 
 ### My Superpowers
-<span class="highlight-pill">Data-Driven Growth</span> <span class="highlight-pill">Workflow Automation</span> <span class="highlight-pill">Cross-Functional Leadership</span>
+<span class="highlight-pill">AI-Powered Product Development</span> <span class="highlight-pill">Product Org Leadership</span> <span class="highlight-pill">Growth &amp; Experimentation</span>
 
-- **Data-Driven Growth** — Leveraged A/B testing, cohort analysis, and LTV/CAC modeling to optimize onboarding and increase retention.
-- **Workflow Automation** — Designed self-service tools that reduced operational friction by **20%** and cut underwriting time by **4 hours per loan**.
-- **Cross-Functional Leadership** — Proven ability to collaborate across engineering, UX, compliance, and business teams to execute high-ROI product roadmaps.
+- **AI-Powered Product Development** — Shipped an agentic underwriting engine and an LLM-powered chat sales assistant, cutting underwriting review time by **50%** and driving a **~40%** conversion improvement across point-of-sale flows.
+- **Product Org Leadership** — Own strategy and roadmap for a 9-person, three-pod organization; hire, level, and coach a 2-person PM team while partnering with engineering leadership on execution.
+- **Growth & Experimentation** — Run A/B and multivariate testing across the funnel; delivered **$6M** in incremental profit and a **9.7%** lift in lead conversion.
 
 ### Notable Highlights
 - **Group Product Manager @ Red Ventures / Sage Home Loans (Current)** — Own product strategy and roadmap for a 9-person, three-pod organization (2 PMs + 7 engineers) spanning the B2C lending funnel; directly manage and coach the PM team, partnering with engineering leadership on execution. Built an agentic loan application workflow, delivered **$6M** in incremental profit, and am driving a **~40%** conversion improvement across point-of-sale flows.
@@ -26,7 +26,7 @@ My work sits at the intersection of competing constraints: **borrower experience
 - **Product Management Consultant @ Slalom** — Delivered a trade compliance reporting solution aligned with European Securities and Markets Authority (ESMA) requirements, and led emergency development of a patient self-service portal that handled 1,200 daily inquiries during the pandemic.
 
 ### Let's Connect
-I'm passionate about using data, technology, and automation to solve complex business problems. Let's chat about how we can redefine financial services together.
+I care about building products that move real business metrics, not just ship features. If you're tackling hard problems in fintech, proptech, or AI-driven decisioning, let's talk.
 
 📧 [jonathan@jvasquez.net](mailto:jonathan@jvasquez.net) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/jonathanjvasquez)
 
