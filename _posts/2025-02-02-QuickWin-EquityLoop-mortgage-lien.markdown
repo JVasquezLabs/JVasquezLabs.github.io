@@ -6,6 +6,7 @@ categories: [Proptech, Product Management]
 excerpt: "A small UX tweak reduced incorrect mortgage disclosures by 75%, improving data accuracy, streamlining sales, and accelerating loan processing."
 ---
 
+<p class="stat-row__label">Key Results</p>
 <div class="stat-row">
   <div class="stat-tile"><span class="stat-tile__number">75%</span><span class="stat-tile__label">Fewer incorrect disclosures</span></div>
   <div class="stat-tile"><span class="stat-tile__number">20% &rarr; 5%</span><span class="stat-tile__label">Error rate</span></div>

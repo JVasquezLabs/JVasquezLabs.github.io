@@ -6,6 +6,7 @@ categories: [Proptech, Product Management]
 excerpt: "Revamping a partner portal increased agent engagement by 35%, reduced support tickets by 40%, and accelerated deal closures."
 ---
 
+<p class="stat-row__label">Key Results</p>
 <div class="stat-row">
   <div class="stat-tile"><span class="stat-tile__number">35%</span><span class="stat-tile__label">Agent engagement</span></div>
   <div class="stat-tile"><span class="stat-tile__number">40%</span><span class="stat-tile__label">Fewer support tickets</span></div>
