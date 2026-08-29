@@ -5,18 +5,16 @@ permalink: /roadmap/
 ---
 
 ## Why This Portfolio Exists
-My trusty and visually appealing PDF portfolio felt out of date, and I thought this would be a great opportunity to update my portfolio while also learning a new skill.
+I run this portfolio the way I run any product: a clear point of view, a prioritized roadmap, and a bias toward shipping and iterating in public rather than treating it as a static resume.
 
-I decided to **learn Jekyll** and build this portfolio as a way to showcase my technical skills alongside my Product Management accomplishments.
-
-This portfolio is more than just a collection of case studies — it's a **product** that I plan to develop and maintain over time; new case studies will be added, and technical improvements will be made to enhance usability and engagement. Below is a running log of what's shipped and what's next.
+It's a living artifact, not a one-time deliverable — new case studies get added, and the platform itself keeps evolving as my scope does. Below is a running log of what's shipped and what's next.
 
 ---
 
 ## Current Focus
-- **Publish remaining case studies** — convert the rest of my case study material from PDF to markdown. *(Blocked: source file needs to be re-uploaded.)*
-- **Downloadable PDFs** — let visitors download a case study as a PDF.
-- **Portfolio metrics dashboard** — surface visits, downloads, and engagement.
+- **Publish remaining case studies** — bring the rest of my case study material online. *(Blocked: source material needs to be re-uploaded.)*
+- **Downloadable case studies** — let visitors export a case study for offline review.
+- **Engagement analytics** — instrument the site to understand what content resonates with recruiters and hiring managers.
 
 ---
 
@@ -25,85 +23,64 @@ This portfolio is more than just a collection of case studies — it's a **produ
 <ul class="roadmap-list">
   <li class="roadmap-item roadmap-item--done">
     <div class="roadmap-item__main">
-      <div class="roadmap-item__title">Initial MVP launch</div>
-      <p class="roadmap-item__desc">Core site built with Jekyll, first case study uploaded.</p>
+      <div class="roadmap-item__title">Initial launch</div>
+      <p class="roadmap-item__desc">Core site built and first case study published.</p>
     </div>
     <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> January 30, 2025</div>
   </li>
   <li class="roadmap-item roadmap-item--done">
     <div class="roadmap-item__main">
       <div class="roadmap-item__title">Case studies section</div>
-      <p class="roadmap-item__desc">Dedicated section for detailed PM case studies.</p>
+      <p class="roadmap-item__desc">Dedicated section for detailed product case studies.</p>
     </div>
     <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> February 1, 2025</div>
   </li>
   <li class="roadmap-item roadmap-item--done">
     <div class="roadmap-item__main">
       <div class="roadmap-item__title">UI improvements</div>
-      <p class="roadmap-item__desc">Hero image, better typography, and navigation.</p>
+      <p class="roadmap-item__desc">Hero image, improved typography, and navigation.</p>
     </div>
     <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> February 2, 2025</div>
   </li>
   <li class="roadmap-item roadmap-item--done">
     <div class="roadmap-item__main">
-      <div class="roadmap-item__title">Modern design refresh</div>
-      <p class="roadmap-item__desc">Inter typeface, refreshed indigo/slate palette, and a card-based layout for case studies.</p>
-    </div>
-    <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> August 29, 2026</div>
-  </li>
-  <li class="roadmap-item roadmap-item--done">
-    <div class="roadmap-item__main">
-      <div class="roadmap-item__title">Layout bug fix</div>
-      <p class="roadmap-item__desc">Removed a duplicated, always-rendered sidebar wrapper that was squeezing page content into a narrow middle column on larger screens.</p>
+      <div class="roadmap-item__title">Design and platform refresh</div>
+      <p class="roadmap-item__desc">Rebuilt the visual system (typography, color, card-based layouts) and resolved underlying layout and configuration issues to support a more scalable content structure as new case studies are added.</p>
     </div>
     <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> August 29, 2026</div>
   </li>
   <li class="roadmap-item roadmap-item--done">
     <div class="roadmap-item__main">
       <div class="roadmap-item__title">Interactive roadmap</div>
-      <p class="roadmap-item__desc">Moved this page from a static markdown table to the format you're looking at now.</p>
+      <p class="roadmap-item__desc">Replaced the static roadmap table with the format you're looking at now.</p>
     </div>
     <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> August 29, 2026</div>
   </li>
   <li class="roadmap-item roadmap-item--done">
     <div class="roadmap-item__main">
-      <div class="roadmap-item__title">Layout refactor</div>
-      <p class="roadmap-item__desc">Removed a reserved right-hand gutter that only existed for an unused table-of-contents sidebar, which was causing a sudden width jump at the 1024px breakpoint. Content now uses the full width consistently.</p>
-    </div>
-    <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> August 29, 2026</div>
-  </li>
-  <li class="roadmap-item roadmap-item--done">
-    <div class="roadmap-item__main">
-      <div class="roadmap-item__title">Codebase cleanup</div>
-      <p class="roadmap-item__desc">Removed dead navigation config, a duplicate homepage file competing for the same URL, and stale leftover comments.</p>
-    </div>
-    <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> August 29, 2026</div>
-  </li>
-  <li class="roadmap-item roadmap-item--done">
-    <div class="roadmap-item__main">
-      <div class="roadmap-item__title">Homepage content refresh</div>
-      <p class="roadmap-item__desc">Updated the intro to reflect current work at Red Ventures — borrower experience, loan operations, and sales technology across purchase, refinance, and HELOC lending.</p>
+      <div class="roadmap-item__title">Positioning refresh</div>
+      <p class="roadmap-item__desc">Updated the homepage to reflect current scope: leading borrower experience, loan operations, and sales technology at Red Ventures.</p>
     </div>
     <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> August 29, 2026</div>
   </li>
   <li class="roadmap-item roadmap-item--blocked">
     <div class="roadmap-item__main">
       <div class="roadmap-item__title">Publish remaining case studies</div>
-      <p class="roadmap-item__desc">Convert remaining case studies from PDF to markdown for publishing.</p>
+      <p class="roadmap-item__desc">Bring the rest of the case study material online.</p>
     </div>
     <div class="roadmap-item__meta"><span class="status-pill status-pill--blocked">Needs source material</span></div>
   </li>
   <li class="roadmap-item roadmap-item--planned">
     <div class="roadmap-item__main">
-      <div class="roadmap-item__title">Downloadable PDFs</div>
-      <p class="roadmap-item__desc">Allow visitors to download individual case studies as PDFs.</p>
+      <div class="roadmap-item__title">Downloadable case studies</div>
+      <p class="roadmap-item__desc">Allow visitors to export individual case studies for offline review.</p>
     </div>
     <div class="roadmap-item__meta"><span class="status-pill status-pill--planned">In planning</span></div>
   </li>
   <li class="roadmap-item roadmap-item--discovery">
     <div class="roadmap-item__main">
-      <div class="roadmap-item__title">Portfolio metrics dashboard</div>
-      <p class="roadmap-item__desc">Showcase analytics — visits, downloads, engagement.</p>
+      <div class="roadmap-item__title">Engagement analytics</div>
+      <p class="roadmap-item__desc">Understand what content resonates with recruiters and hiring managers.</p>
     </div>
     <div class="roadmap-item__meta"><span class="status-pill status-pill--discovery">Discovery</span></div>
   </li>
@@ -119,7 +96,7 @@ This portfolio is more than just a collection of case studies — it's a **produ
 ---
 
 ## Upcoming Tasks
-- **Cross-browser testing** — the redesign has been verified across screen sizes from 375px to 1440px, but only in Chromium so far. Still need a pass in Firefox and Safari.
+- **Cross-browser testing** — verified across screen sizes from 375px to 1440px, but only in Chromium so far. Still need a pass in Firefox and Safari.
 
 ---
 
