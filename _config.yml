@@ -16,14 +16,6 @@ sass:
   sass_dir: _sass
   style: compressed
 
-# Navigation Menu (Sidebar)
-navigation:
-  main:
-    - title: "Home"
-      url: "/"
-    - title: "Portfolio"
-      url: "/portfolio/"
-
 # Collections for Portfolio
 collections:
   portfolio:

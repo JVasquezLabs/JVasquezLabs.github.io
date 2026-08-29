@@ -1,82 +1,106 @@
 ---
 layout: page
-title: "🛤️ Portfolio Roadmap"
+title: "Portfolio Roadmap"
 permalink: /roadmap/
 ---
 
-## **Why This Portfolio Exists**
-My trusty and visually appealing PDF portfolio felt out of date and I thought this would be a great opportunity to update my portfolio while also learning a new skill.
+## Why This Portfolio Exists
+My trusty and visually appealing PDF portfolio felt out of date, and I thought this would be a great opportunity to update my portfolio while also learning a new skill.
 
-I decided to **learn Jekyll** and build this portfolio as a way to **showcase my technical skills alongside my Product Management accomplishments**. 
+I decided to **learn Jekyll** and build this portfolio as a way to showcase my technical skills alongside my Product Management accomplishments.
 
-This portfolio is more than just a **collection of case studies**—it's a **product** that I plan to **develop and maintain over time**; new case studies will be added, and technical improvements will be made to enhance usability and engagement. Below, you'll find a **roadmap** of features that have already been completed and what's planned for the future. 
-
----
-
-## **🚀 Roadmap**
-
-### 📌 **Current Focus**
-- **Publish case studies**  
-  - Convert remainng case studies from PDF to markdown for publishing. 
-- **Enhance UI Styling**  
-  - Ensure consistent typography using Roboto font.  
-  - Maintain proper layout structure without unnecessary modifications.  
-
-- **Fix Body Layout Issue**  
-  - Investigate why the body appears centered as if in a 3-column layout.  
-  - Adjust width to ensure proper full-page display.  
-
-- **Improve Performance & Responsiveness**  
-  - Optimize CSS for better mobile and desktop experiences.  
-  - Minimize unnecessary CSS properties affecting layout behavior.  
+This portfolio is more than just a collection of case studies — it's a **product** that I plan to develop and maintain over time; new case studies will be added, and technical improvements will be made to enhance usability and engagement. Below is a running log of what's shipped and what's next.
 
 ---
 
-## **📅 Release Timeline**
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  th, td {
-    padding: 12px;
-    text-align: left;
-    border-bottom: 1px solid #ddd;
-  }
-  th {
-    background-color: #f4f4f4;
-  }
-</style>
-
-| **Feature** | **Status** | **Release Date** |
-|------------|-----------|------------------|
-| 🔥 **Initial MVP Launch** - Core site built with Jekyll, first case study uploaded. | ✅ Completed  | **January 30, 2025** |
-| 📚 **Case Studies Section** - Added a dedicated section for detailed PM case studies. | ✅ Completed  | **February 1, 2025** |
-| 🎨 **UI Improvements** - Implemented hero image, better typography, and navigation. | ✅ Completed  | **February 2, 2025** |
-| 📂 **Downloadable PDFs** - Allow users to download my case studies as PDFs. | 🚧 In Planning | **February 25, 2025** |
-| 🏆 **Portfolio Metrics Dashboard** - Showcase analytics (visits, downloads, engagement). | ⏳ Discovery  |  |
-| 🛠️ **Interactive Roadmap** - Move this roadmap to a visually interactive format. | ⏳ Discovery  |  |
-| 🧑‍💻 **Live Product Demo Section** - Add a section to feature live demos of past projects. | ⏳ Discovery  |  |
+## Current Focus
+- **Publish remaining case studies** — convert the rest of my case study material from PDF to markdown. *(Blocked: source file needs to be re-uploaded.)*
+- **Downloadable PDFs** — let visitors download a case study as a PDF.
+- **Portfolio metrics dashboard** — surface visits, downloads, and engagement.
 
 ---
 
-## **🔜 Upcoming Tasks**
-- **Refactor Layout System**  
-  - Review `display: flex;` settings to avoid unwanted layout shifts.  
-  - Check for any conflicting width constraints.  
+## Roadmap
 
-- **Codebase Cleanup**  
-  - Remove redundant styles without altering intended design.  
-  - Ensure future-proof CSS structure.  
-
-- **Testing & Bug Fixes**  
-  - Cross-browser testing for layout consistency.  
-  - Ensure compatibility across different screen sizes.  
+<ul class="roadmap-list">
+  <li class="roadmap-item roadmap-item--done">
+    <div class="roadmap-item__main">
+      <div class="roadmap-item__title">Initial MVP launch</div>
+      <p class="roadmap-item__desc">Core site built with Jekyll, first case study uploaded.</p>
+    </div>
+    <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> January 30, 2025</div>
+  </li>
+  <li class="roadmap-item roadmap-item--done">
+    <div class="roadmap-item__main">
+      <div class="roadmap-item__title">Case studies section</div>
+      <p class="roadmap-item__desc">Dedicated section for detailed PM case studies.</p>
+    </div>
+    <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> February 1, 2025</div>
+  </li>
+  <li class="roadmap-item roadmap-item--done">
+    <div class="roadmap-item__main">
+      <div class="roadmap-item__title">UI improvements</div>
+      <p class="roadmap-item__desc">Hero image, better typography, and navigation.</p>
+    </div>
+    <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> February 2, 2025</div>
+  </li>
+  <li class="roadmap-item roadmap-item--done">
+    <div class="roadmap-item__main">
+      <div class="roadmap-item__title">Modern design refresh</div>
+      <p class="roadmap-item__desc">Inter typeface, refreshed indigo/slate palette, and a card-based layout for case studies.</p>
+    </div>
+    <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> August 29, 2026</div>
+  </li>
+  <li class="roadmap-item roadmap-item--done">
+    <div class="roadmap-item__main">
+      <div class="roadmap-item__title">Layout bug fix</div>
+      <p class="roadmap-item__desc">Removed a duplicated, always-rendered sidebar wrapper that was squeezing page content into a narrow middle column on larger screens.</p>
+    </div>
+    <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> August 29, 2026</div>
+  </li>
+  <li class="roadmap-item roadmap-item--done">
+    <div class="roadmap-item__main">
+      <div class="roadmap-item__title">Interactive roadmap</div>
+      <p class="roadmap-item__desc">Moved this page from a static markdown table to the format you're looking at now.</p>
+    </div>
+    <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> August 29, 2026</div>
+  </li>
+  <li class="roadmap-item roadmap-item--blocked">
+    <div class="roadmap-item__main">
+      <div class="roadmap-item__title">Publish remaining case studies</div>
+      <p class="roadmap-item__desc">Convert remaining case studies from PDF to markdown for publishing.</p>
+    </div>
+    <div class="roadmap-item__meta"><span class="status-pill status-pill--blocked">Needs source material</span></div>
+  </li>
+  <li class="roadmap-item roadmap-item--planned">
+    <div class="roadmap-item__main">
+      <div class="roadmap-item__title">Downloadable PDFs</div>
+      <p class="roadmap-item__desc">Allow visitors to download individual case studies as PDFs.</p>
+    </div>
+    <div class="roadmap-item__meta"><span class="status-pill status-pill--planned">In planning</span></div>
+  </li>
+  <li class="roadmap-item roadmap-item--discovery">
+    <div class="roadmap-item__main">
+      <div class="roadmap-item__title">Portfolio metrics dashboard</div>
+      <p class="roadmap-item__desc">Showcase analytics — visits, downloads, engagement.</p>
+    </div>
+    <div class="roadmap-item__meta"><span class="status-pill status-pill--discovery">Discovery</span></div>
+  </li>
+  <li class="roadmap-item roadmap-item--discovery">
+    <div class="roadmap-item__main">
+      <div class="roadmap-item__title">Live product demo section</div>
+      <p class="roadmap-item__desc">Feature live demos of past projects.</p>
+    </div>
+    <div class="roadmap-item__meta"><span class="status-pill status-pill--discovery">Discovery</span></div>
+  </li>
+</ul>
 
 ---
 
-Stay tuned for updates! 🚀
+## Upcoming Tasks
+- **Codebase cleanup** — remove redundant styles and keep the CSS future-proof as new sections are added.
+- **Testing & bug fixes** — cross-browser and cross-device passes as new features ship.
 
 ---
 
-_Last updated: **February 3, 2025**_
+_Last updated: **August 29, 2026**_

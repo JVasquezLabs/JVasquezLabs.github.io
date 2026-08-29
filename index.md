@@ -8,7 +8,9 @@ header:
   #caption: "Transforming Real Estate and FinTech Through Innovation"
 ---
 
-I'm a **Product Leader** with a strong track record of leading **0-to-1 product launches**, scaling **digital experiences**, and driving **customer engagement** across **FinTech, PropTech, and Retail** industries. My unique background blends **technical expertise, real estate experience, and product strategy** to deliver high-impact solutions that transform how businesses operate.
+At **Red Ventures**, I lead a product portfolio spanning **borrower experience, loan operations, and sales technology** across purchase, refinance, and HELOC lending — including point-of-sale conversion, automated underwriting, credit workflows, capital markets, and **AI systems that take actions, not just produce outputs**.
+
+My work sits at the intersection of competing constraints: **borrower experience, fulfillment efficiency, credit economics, compliance, investor eligibility, and engineering capacity**.
 
 ### My Superpowers
 <span class="highlight-pill">Data-Driven Growth</span> <span class="highlight-pill">Workflow Automation</span> <span class="highlight-pill">Cross-Functional Leadership</span>

@@ -60,6 +60,31 @@ a {
   }
 }
 
+// The theme reserves a permanent right-hand gutter on `.page` at the
+// $large/$x-large breakpoints for an optional table-of-contents sidebar
+// (page.toc). This site never sets page.toc, so that gutter was just
+// wasted space that also caused a sudden width jump right at 1024px.
+// Only fall back to the reserved gutter on the rare page that opts into
+// a TOC.
+.page {
+  float: none;
+  width: 100%;
+  padding-right: 0;
+
+  &:has(.sidebar__right) {
+    @include breakpoint($large) {
+      float: right;
+      width: calc(100% - #{$right-sidebar-width-narrow});
+      padding-right: $right-sidebar-width-narrow;
+    }
+
+    @include breakpoint($x-large) {
+      width: calc(100% - #{$right-sidebar-width});
+      padding-right: $right-sidebar-width;
+    }
+  }
+}
+
 // Theme's masthead nav resolves its link color via a Sass variable set
 // before this file loads, so it needs a direct override to pick up the
 // new palette.
@@ -145,4 +170,85 @@ a {
   color: var(--accent-dark);
   font-weight: 600;
   font-size: 0.85em;
+}
+
+// Status pills + timeline list used on the roadmap page
+.status-pill {
+  display: inline-block;
+  padding: 0.2em 0.7em;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 0.78em;
+  white-space: nowrap;
+
+  &--done {
+    background: rgba(22, 163, 74, 0.12);
+    color: #15803d;
+  }
+
+  &--planned {
+    background: rgba(217, 119, 6, 0.12);
+    color: #b45309;
+  }
+
+  &--discovery {
+    background: rgba(100, 116, 139, 0.12);
+    color: #475569;
+  }
+
+  &--blocked {
+    background: rgba(220, 38, 38, 0.1);
+    color: #b91c1c;
+  }
+}
+
+.roadmap-list {
+  list-style: none;
+  margin: 2em 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.9em;
+}
+
+.roadmap-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5em 1em;
+  padding: 1.1em 1.4em;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
+  border-radius: 10px;
+
+  &--done { border-left-color: #16a34a; }
+  &--planned { border-left-color: #d97706; }
+  &--discovery { border-left-color: #64748b; }
+  &--blocked { border-left-color: #dc2626; }
+}
+
+.roadmap-item__main {
+  flex: 1 1 320px;
+}
+
+.roadmap-item__title {
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.roadmap-item__desc {
+  margin: 0.15em 0 0;
+  color: var(--ink-light);
+  font-size: 0.92em;
+}
+
+.roadmap-item__meta {
+  display: flex;
+  align-items: center;
+  gap: 0.6em;
+  font-size: 0.85em;
+  color: var(--ink-light);
+  white-space: nowrap;
 }
