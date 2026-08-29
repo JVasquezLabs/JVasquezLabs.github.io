@@ -45,6 +45,38 @@ a {
   }
 }
 
+// Headshot + intro layout on the homepage
+.profile-intro {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.75em;
+  margin-bottom: 1em;
+
+  @media (max-width: 600px) {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+.profile-photo {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  border: 3px solid var(--surface);
+  box-shadow: 0 6px 20px rgba(15, 23, 42, 0.15);
+}
+
+.profile-intro__text {
+  min-width: 0;
+
+  p:first-child {
+    margin-top: 0;
+  }
+}
+
 // Softer, deeper hero overlay for a more modern, high-contrast title treatment
 .page__hero--overlay {
   background-size: cover;

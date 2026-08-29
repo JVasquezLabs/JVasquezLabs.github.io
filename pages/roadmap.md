@@ -15,14 +15,13 @@ It's a living artifact, not a one-time deliverable — new case studies get adde
   <div class="timeline-col timeline-col--now">
     <p class="timeline-col__label">Now</p>
     <ul>
-      <li>Level up site content (positioning, highlights, case studies) to match current Group PM scope.</li>
-      <li>Publish remaining case studies. <em>(Blocked: source material needs to be re-uploaded.)</em></li>
+      <li>Publish remaining case studies.</li>
+      <li>Instrument the site with analytics to understand what resonates with recruiters and hiring managers.</li>
     </ul>
   </div>
   <div class="timeline-col timeline-col--next">
     <p class="timeline-col__label">Next</p>
     <ul>
-      <li>Instrument the site with analytics to understand what resonates with recruiters and hiring managers.</li>
       <li>Let visitors export a case study for offline review.</li>
     </ul>
   </div>
@@ -43,7 +42,7 @@ It's a living artifact, not a one-time deliverable — new case studies get adde
     <li class="roadmap-item roadmap-item--done">
       <div class="roadmap-item__main">
         <div class="roadmap-item__title">Notable Highlights refresh</div>
-        <p class="roadmap-item__desc">Reordered and rewrote highlights to lead with current Group PM scope.</p>
+        <p class="roadmap-item__desc">Reordered and rewrote highlights to lead with current scope.</p>
       </div>
       <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> August 29, 2026</div>
     </li>
