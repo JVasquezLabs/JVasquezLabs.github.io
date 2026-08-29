@@ -50,7 +50,7 @@ It's a living artifact, not a one-time deliverable — new case studies get adde
     <li class="roadmap-item roadmap-item--done">
       <div class="roadmap-item__main">
         <div class="roadmap-item__title">Positioning refresh</div>
-        <p class="roadmap-item__desc">Updated the homepage intro to reflect current scope at Red Ventures.</p>
+        <p class="roadmap-item__desc">Updated the homepage intro to reflect current scope in B2C lending.</p>
       </div>
       <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> August 29, 2026</div>
     </li>
