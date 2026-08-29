@@ -65,6 +65,27 @@ This portfolio is more than just a collection of case studies — it's a **produ
     </div>
     <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> August 29, 2026</div>
   </li>
+  <li class="roadmap-item roadmap-item--done">
+    <div class="roadmap-item__main">
+      <div class="roadmap-item__title">Layout refactor</div>
+      <p class="roadmap-item__desc">Removed a reserved right-hand gutter that only existed for an unused table-of-contents sidebar, which was causing a sudden width jump at the 1024px breakpoint. Content now uses the full width consistently.</p>
+    </div>
+    <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> August 29, 2026</div>
+  </li>
+  <li class="roadmap-item roadmap-item--done">
+    <div class="roadmap-item__main">
+      <div class="roadmap-item__title">Codebase cleanup</div>
+      <p class="roadmap-item__desc">Removed dead navigation config, a duplicate homepage file competing for the same URL, and stale leftover comments.</p>
+    </div>
+    <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> August 29, 2026</div>
+  </li>
+  <li class="roadmap-item roadmap-item--done">
+    <div class="roadmap-item__main">
+      <div class="roadmap-item__title">Homepage content refresh</div>
+      <p class="roadmap-item__desc">Updated the intro to reflect current work at Red Ventures — borrower experience, loan operations, and sales technology across purchase, refinance, and HELOC lending.</p>
+    </div>
+    <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> August 29, 2026</div>
+  </li>
   <li class="roadmap-item roadmap-item--blocked">
     <div class="roadmap-item__main">
       <div class="roadmap-item__title">Publish remaining case studies</div>
@@ -98,8 +119,7 @@ This portfolio is more than just a collection of case studies — it's a **produ
 ---
 
 ## Upcoming Tasks
-- **Codebase cleanup** — remove redundant styles and keep the CSS future-proof as new sections are added.
-- **Testing & bug fixes** — cross-browser and cross-device passes as new features ship.
+- **Cross-browser testing** — the redesign has been verified across screen sizes from 375px to 1440px, but only in Chromium so far. Still need a pass in Firefox and Safari.
 
 ---
 
