@@ -222,11 +222,20 @@ a {
 }
 
 // Headline-metric callouts at the top of a case study
+.stat-row__label {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.78em;
+  font-weight: 700;
+  color: var(--ink-light);
+  margin: 0 0 0.75em;
+}
+
 .stat-row {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
   gap: 1em;
-  margin: 1.5em 0 2em;
+  margin: 0 0 2em;
 }
 
 .stat-tile {

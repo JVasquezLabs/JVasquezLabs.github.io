@@ -6,6 +6,7 @@ categories: [Fintech, Product Management]
 excerpt: "How workflow automation reduced MegaLoans’ time to close by 4 days, decreased rate lock extensions, and improved profitability."
 ---
 
+<p class="stat-row__label">Key Results</p>
 <div class="stat-row">
   <div class="stat-tile"><span class="stat-tile__number">4 days</span><span class="stat-tile__label">Faster time to close</span></div>
   <div class="stat-tile"><span class="stat-tile__number">15%</span><span class="stat-tile__label">Reduced internal effort</span></div>

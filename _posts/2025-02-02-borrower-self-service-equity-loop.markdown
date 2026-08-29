@@ -6,6 +6,7 @@ categories: [Fintech, Product Management]
 excerpt: "How workflow automation increased appraisal completions by 20%, reduced customer support inquiries by 30%, and accelerated time-to-funding by 7%."
 ---
 
+<p class="stat-row__label">Key Results</p>
 <div class="stat-row">
   <div class="stat-tile"><span class="stat-tile__number">20%</span><span class="stat-tile__label">More completed applications</span></div>
   <div class="stat-tile"><span class="stat-tile__number">30%</span><span class="stat-tile__label">Fewer support inquiries</span></div>

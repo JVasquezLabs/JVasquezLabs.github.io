@@ -6,6 +6,7 @@ categories: [Fintech, Product Management]
 excerpt: "How an AI underwriting agent automated income, employment, and residency verification, cutting review time by 50%, scaling capacity to 1,000 loans a month, and driving a ~40% lift in conversion."
 ---
 
+<p class="stat-row__label">Key Results</p>
 <div class="stat-row">
   <div class="stat-tile"><span class="stat-tile__number">50%</span><span class="stat-tile__label">Faster underwriting review</span></div>
   <div class="stat-tile"><span class="stat-tile__number">1,000</span><span class="stat-tile__label">Loans processed per month</span></div>
