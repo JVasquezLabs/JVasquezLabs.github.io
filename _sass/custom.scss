@@ -1,26 +1,148 @@
-// Import Google Fonts
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+// Import a modern, highly-legible typeface
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
-// Override link colors
-$link-color: #ff6600;
-$link-hover-color: #cc4400;
+// Modern accent palette (swap the theme's default orange for an indigo/slate system)
+$link-color: #4f46e5;
+$link-hover-color: #3730a3;
+$masthead-link-color: #f8fafc;
+$masthead-link-color-hover: #ffffff;
 
-// Set default font for body text and headers
-$body-font-family: 'Roboto', sans-serif !important;
-$header-font-family: 'Roboto', sans-serif !important;
+$body-font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif !important;
+$header-font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif !important;
 
-// Apply font sitewide
-body {
-  font-size: 18px;
-  font-family: $body-font-family;
+:root {
+  --accent: #4f46e5;
+  --accent-dark: #3730a3;
+  --ink: #1e293b;
+  --ink-light: #475569;
+  --surface: #f8fafc;
+  --border: #e2e8f0;
 }
 
-// Ensure all headers use Roboto
+body {
+  font-size: 17px;
+  line-height: 1.65;
+  font-family: $body-font-family;
+  color: var(--ink);
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $header-font-family;
+  font-weight: 700;
+  letter-spacing: -0.01em;
 }
 
-// Apply font to common elements
 p, a, span, div, li, blockquote {
   font-family: $body-font-family;
+}
+
+a {
+  color: var(--accent);
+  transition: color 0.15s ease;
+
+  &:hover {
+    color: var(--accent-dark);
+  }
+}
+
+// Softer, deeper hero overlay for a more modern, high-contrast title treatment
+.page__hero--overlay {
+  background-size: cover;
+  background-position: center;
+
+  .wrapper {
+    padding: 4em 1em;
+  }
+
+  h1.page__title {
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+}
+
+// Theme's masthead nav resolves its link color via a Sass variable set
+// before this file loads, so it needs a direct override to pick up the
+// new palette.
+.greedy-nav a {
+  color: var(--ink);
+  font-weight: 500;
+
+  &:hover {
+    color: var(--accent);
+  }
+
+  &.site-title {
+    color: var(--ink);
+    font-weight: 700;
+  }
+}
+
+// Modernized buttons: flatter, rounded, subtle motion on hover
+.btn {
+  border-radius: 8px;
+  font-weight: 600;
+  letter-spacing: 0;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+
+  &:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+  }
+}
+
+// Card grid used on the homepage / case studies index in place of a plain table
+.case-study-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.25em;
+  margin: 2em 0;
+  list-style: none;
+  padding: 0;
+}
+
+.case-study-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+  padding: 1.5em;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  transition: box-shadow 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08);
+    border-color: var(--accent);
+    transform: translateY(-2px);
+  }
+
+  h3 {
+    margin: 0;
+    font-size: 1.05em;
+
+    a {
+      color: var(--ink);
+
+      &:hover {
+        color: var(--accent);
+      }
+    }
+  }
+
+  p {
+    margin: 0;
+    color: var(--ink-light);
+    font-size: 0.95em;
+  }
+}
+
+// Pill-style highlight used for short callouts (superpowers, highlights, etc.)
+.highlight-pill {
+  display: inline-block;
+  padding: 0.15em 0.6em;
+  border-radius: 999px;
+  background: rgba(79, 70, 229, 0.1);
+  color: var(--accent-dark);
+  font-weight: 600;
+  font-size: 0.85em;
 }

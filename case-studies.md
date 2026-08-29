@@ -1,20 +1,17 @@
 ---
 layout: single
-title: "📂 Case Studies"
+title: "Case Studies"
 permalink: /case-studies/
 ---
 
-🔍 Below is a collection of **detailed case studies** showcasing my expertise in **FinTech, PropTech, and Product Management**.
+Below is a collection of detailed case studies showcasing my expertise in **FinTech, PropTech, and Product Management** — each with the key insights, workflow optimizations, and product strategies that drove real business impact.
 
-Each case study includes **key insights, workflow optimizations, and product strategies** that drove real business impact.
-
----
-
-{% for post in site.posts %}
-### **[{{ post.title }}]({{ post.url | relative_url }})**
-📝 **Summary:** {{ post.excerpt | strip_html }}  
-🔗 [Read Full Case Study →]({{ post.url | relative_url }})
-
----
-{% endfor %}
+<ul class="case-study-grid">
+  {% for post in site.posts %}
+  <li class="case-study-card">
+    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <p>{{ post.excerpt | strip_html }}</p>
+  </li>
+  {% endfor %}
+</ul>
 
