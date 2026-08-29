@@ -239,10 +239,12 @@ a {
 
 .stat-tile__number {
   display: block;
-  font-size: 1.7em;
+  font-size: clamp(1.15em, 5vw, 1.7em);
   font-weight: 700;
   color: var(--accent);
   line-height: 1.15;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 .stat-tile__label {
@@ -250,33 +252,6 @@ a {
   margin-top: 0.35em;
   font-size: 0.82em;
   color: var(--ink-light);
-}
-
-// Table of contents sidebar for longer case studies (page.toc: true)
-.sidebar__right {
-  .nav__title {
-    font-size: 0.85em;
-    font-weight: 700;
-    color: var(--ink);
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-
-    i {
-      color: var(--accent);
-      margin-right: 0.4em;
-    }
-  }
-
-  .toc__menu {
-    a {
-      color: var(--ink-light);
-      font-size: 0.9em;
-
-      &:hover {
-        color: var(--accent);
-      }
-    }
-  }
 }
 
 // Status pills + timeline list used on the roadmap page

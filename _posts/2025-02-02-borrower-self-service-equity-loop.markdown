@@ -4,8 +4,6 @@ title: "Enhancing Borrower Self-Service at Equity Loop"
 date: 2025-02-15
 categories: [Fintech, Product Management]
 excerpt: "How workflow automation increased appraisal completions by 20%, reduced customer support inquiries by 30%, and accelerated time-to-funding by 7%."
-toc: true
-toc_sticky: true
 ---
 
 <div class="stat-row">

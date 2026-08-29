@@ -4,8 +4,6 @@ title: "Project: Optimizing the Agent Partner Portal"
 date: 2025-02-01
 categories: [Proptech, Product Management]
 excerpt: "Revamping a partner portal increased agent engagement by 35%, reduced support tickets by 40%, and accelerated deal closures."
-toc: true
-toc_sticky: true
 ---
 
 <div class="stat-row">
