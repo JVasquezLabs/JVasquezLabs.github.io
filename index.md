@@ -8,9 +8,16 @@ header:
   #caption: "Transforming Real Estate and FinTech Through Innovation"
 ---
 
+<div class="profile-intro">
+  <img src="/assets/images/profile.jpg" alt="Jonathan Vasquez" class="profile-photo">
+  <div class="profile-intro__text" markdown="1">
+
 In my current role, I lead a product portfolio spanning **borrower experience, loan operations, and sales technology** across purchase, refinance, and HELOC lending — including point-of-sale conversion, automated underwriting, credit workflows, capital markets, and **AI systems that take actions, not just produce outputs**.
 
 My work sits at the intersection of competing constraints: **borrower experience, fulfillment efficiency, credit economics, compliance, investor eligibility, and engineering capacity**.
+
+  </div>
+</div>
 
 ### My Superpowers
 <span class="highlight-pill">AI-Powered Product Development</span> <span class="highlight-pill">Product Org Leadership</span> <span class="highlight-pill">Growth &amp; Experimentation</span>
