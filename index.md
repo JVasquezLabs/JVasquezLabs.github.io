@@ -35,7 +35,9 @@ My work sits at the intersection of competing constraints: **borrower experience
 ### What I'm Building Now
 Currently building an agentic underwriting system that doesn't just recommend — it reads documents, calculates income, and acts on its own output, advancing files and requesting documents without a human in the loop. Also shipping multi-AUS routing strategy for mortgage lending, evaluating every loan across multiple decisioning systems to optimize outcomes. Home equity product line is funded and expanding partnerships.
 
-<img src="https://ghchart.rshah.org/4f46e5/JVasquezLabs" alt="Jonathan Vasquez's GitHub contribution activity" class="github-chart" loading="lazy" onerror="this.style.display='none'; document.getElementById('github-chart-fallback').hidden=false;">
+<a href="https://github.com/JVasquezLabs" style="display: block; text-decoration: none;">
+  <img src="https://ghchart.rshah.org/4f46e5/JVasquezLabs" alt="Jonathan Vasquez's GitHub contribution activity" class="github-chart" loading="lazy" onerror="this.style.display='none'; document.getElementById('github-chart-fallback').hidden=false;">
+</a>
 <p id="github-chart-fallback" class="github-projects__status" hidden>Couldn't load live contribution data — <a href="https://github.com/JVasquezLabs">view my GitHub</a> directly.</p>
 ### Let's Connect
 I care about building products that move real business metrics, not just ship features. If you're tackling hard problems in fintech, proptech, or AI-driven decisioning, let's talk.
