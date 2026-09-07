@@ -35,10 +35,8 @@ The work sits at the intersection of competing constraints: borrower experience,
 ### What I'm Building Now
 Agentic underwriting system that reads documents, calculates income, and acts on its output—advancing files and requesting documents without human involvement. Multi-AUS routing strategy for mortgage lending that evaluates loans across multiple systems to optimize outcomes. Home equity product line is funded and expanding partnerships.
 
-<a href="https://github.com/JVasquezLabs" style="display: block; text-decoration: none;">
-  <img src="https://ghchart.rshah.org/4f46e5/JVasquezLabs" alt="Jonathan Vasquez's GitHub contribution activity" class="github-chart" loading="lazy" onerror="this.style.display='none'; document.getElementById('github-chart-fallback').hidden=false;">
-</a>
-<p id="github-chart-fallback" class="github-projects__status" hidden>Couldn't load live contribution data — <a href="https://github.com/JVasquezLabs">view my GitHub</a> directly.</p>
+### What Matters Most
+I build for real business outcomes in regulated industries where constraints are features, not friction. Product decisions live at the intersection of borrower experience, capital markets, compliance, and engineering capacity. I care more about moving metrics that matter than shipping features. Good product leadership means hiring people smarter than you and getting out of their way.
 ### Let's Connect
 I care about building products that move real business metrics, not just ship features. If you're tackling hard problems in fintech, proptech, or AI-driven decisioning, let's talk.
 
