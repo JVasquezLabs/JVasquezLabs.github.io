@@ -149,12 +149,14 @@ a {
 
 // Card grid used on the homepage / case studies index in place of a plain table
 .case-study-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  display: flex;
   gap: 1.25em;
   margin: 2em 0;
   list-style: none;
   padding: 0;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
 }
 
 .case-study-card {
@@ -166,6 +168,8 @@ a {
   border: 1px solid var(--border);
   border-radius: 12px;
   transition: box-shadow 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
+  flex: 0 0 280px;
+  min-width: 280px;
 
   &:hover {
     box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08);
