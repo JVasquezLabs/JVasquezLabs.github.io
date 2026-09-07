@@ -33,7 +33,7 @@ My work sits at the intersection of competing constraints: **borrower experience
 - **Regulatory & Compliance Product Strategy** — Delivered a trade compliance reporting solution aligned with European Securities and Markets Authority (ESMA) requirements, and led emergency development of a patient self-service portal that handled 1,200 daily inquiries during the pandemic.
 
 ### What I'm Building Now
-Currently building an agentic underwriting system that doesn't just recommend — it reads documents, calculates income, and acts on its own output, advancing files and requesting documents without a human in the loop. Also running Sage's Fannie Mae DU+ expansion, a multi-AUS routing strategy that evaluates every loan across two systems to find the better outcome. Home equity business is funded and expanding partnerships.
+Currently building an agentic underwriting system that doesn't just recommend — it reads documents, calculates income, and acts on its own output, advancing files and requesting documents without a human in the loop. Also shipping multi-AUS routing strategy for mortgage lending, evaluating every loan across multiple decisioning systems to optimize outcomes. Home equity product line is funded and expanding partnerships.
 
 <img src="https://ghchart.rshah.org/4f46e5/JVasquezLabs" alt="Jonathan Vasquez's GitHub contribution activity" class="github-chart" loading="lazy" onerror="this.style.display='none'; document.getElementById('github-chart-fallback').hidden=false;">
 <p id="github-chart-fallback" class="github-projects__status" hidden>Couldn't load live contribution data — <a href="https://github.com/JVasquezLabs">view my GitHub</a> directly.</p>

@@ -18,7 +18,7 @@ Open to fractional PM work, advisory, and consulting engagements — particularl
 
 ## Recent Work
 
-I built an AI underwriting engine for a small-business fintech startup, matching applicants to qualified lenders via LLM-driven decisioning. Currently leading agentic underwriting development at Sage, running multi-AUS routing strategy for Fannie Mae DU+ expansion, and managing home equity product portfolio alongside mortgage lending.
+I built an AI underwriting engine for small-business lending, matching applicants to qualified lenders via LLM-driven decisioning. Currently shipping agentic underwriting automation, multi-AUS routing strategy for mortgage lending optimization, and scaling home equity product portfolio with partnership expansion.
 
 ---
 
