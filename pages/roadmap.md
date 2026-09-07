@@ -15,21 +15,25 @@ It's a living artifact, not a one-time deliverable — new case studies get adde
   <div class="timeline-col timeline-col--now">
     <p class="timeline-col__label">Now</p>
     <ul>
-      <li>Publish remaining case studies.</li>
-      <li>Instrument the site with analytics to understand what resonates with recruiters and hiring managers.</li>
+      <li>Monitor Heap analytics to understand what resonates with recruiters.</li>
+      <li>Add meta descriptions and OG tags to case studies for link previews.</li>
+      <li>A/B test case study headlines and CTAs.</li>
     </ul>
   </div>
   <div class="timeline-col timeline-col--next">
     <p class="timeline-col__label">Next</p>
     <ul>
-      <li>Let visitors export a case study for offline review.</li>
+      <li>Publish a Tools & Stack page (languages, frameworks, methodologies).</li>
+      <li>Add testimonials from peer PMs or engineering partners.</li>
+      <li>Create FAQs for common recruiter questions.</li>
     </ul>
   </div>
   <div class="timeline-col timeline-col--later">
     <p class="timeline-col__label">Later</p>
     <ul>
-      <li>Feature live demos of past projects.</li>
-      <li>Cross-browser QA pass (verified in Chromium across 375–1440px; still need Firefox and Safari).</li>
+      <li>Newsletter signup for thought leadership.</li>
+      <li>Cross-browser QA pass (verified in Chromium; still need Firefox and Safari).</li>
+      <li>Add subtle scroll animations and interaction polish.</li>
     </ul>
   </div>
 </div>
@@ -39,6 +43,41 @@ It's a living artifact, not a one-time deliverable — new case studies get adde
 <details class="shipped-log">
   <summary>Shipped</summary>
   <ul class="roadmap-list">
+    <li class="roadmap-item roadmap-item--done">
+      <div class="roadmap-item__main">
+        <div class="roadmap-item__title">Analytics integration</div>
+        <p class="roadmap-item__desc">Heap analytics live to track engagement with case studies and content.</p>
+      </div>
+      <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> September 7, 2026</div>
+    </li>
+    <li class="roadmap-item roadmap-item--done">
+      <div class="roadmap-item__main">
+        <div class="roadmap-item__title">Consulting page</div>
+        <p class="roadmap-item__desc">Created /consulting page for fractional PM work and advisory engagements.</p>
+      </div>
+      <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> September 7, 2026</div>
+    </li>
+    <li class="roadmap-item roadmap-item--done">
+      <div class="roadmap-item__main">
+        <div class="roadmap-item__title">What I'm Building Now section</div>
+        <p class="roadmap-item__desc">Added active projects section to homepage to signal forward momentum.</p>
+      </div>
+      <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> September 7, 2026</div>
+    </li>
+    <li class="roadmap-item roadmap-item--done">
+      <div class="roadmap-item__main">
+        <div class="roadmap-item__title">Clean URLs</div>
+        <p class="roadmap-item__desc">Removed spaces from permalinks. All case study URLs now use /case-studies/slug format.</p>
+      </div>
+      <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> September 7, 2026</div>
+    </li>
+    <li class="roadmap-item roadmap-item--done">
+      <div class="roadmap-item__main">
+        <div class="roadmap-item__title">Copy cleanup</div>
+        <p class="roadmap-item__desc">Removed em dashes and AI slop. Made copy more direct and less flowery.</p>
+      </div>
+      <div class="roadmap-item__meta"><span class="status-pill status-pill--done">Completed</span> September 7, 2026</div>
+    </li>
     <li class="roadmap-item roadmap-item--done">
       <div class="roadmap-item__main">
         <div class="roadmap-item__title">Notable Highlights refresh</div>
@@ -93,4 +132,4 @@ It's a living artifact, not a one-time deliverable — new case studies get adde
 
 ---
 
-_Last updated: **August 29, 2026**_
+_Last updated: **September 7, 2026**_
