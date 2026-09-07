@@ -1,0 +1,29 @@
+---
+layout: single
+title: "Fractional PM & Consulting"
+permalink: /consulting/
+header:
+  overlay_image: /assets/images/header-bg.jpg
+  overlay_filter: "linear-gradient(135deg, rgba(15, 23, 42, 0.75), rgba(79, 70, 229, 0.45))"
+---
+
+Open to fractional PM work, advisory, and consulting engagements — particularly **AI-powered underwriting, agentic workflows, and mortgage/fintech product strategy**.
+
+## What I Take On
+
+- **Agentic & AI Product Strategy** — Building systems that automate decisions and take actions, not just produce outputs. Document understanding, guardrails, handoffs, and live feedback loops.
+- **Underwriting Automation** — Loan decisioning, income verification, risk qualification. GSE compliance, exception handling, multi-system routing.
+- **Fintech 0→1** — Point-of-sale platforms, loan origination, capital markets integration, borrower experience design.
+- **Product Org & Portfolio Design** — Roadmap strategy, multi-pod coordination, PM hiring and development, engineering partnership.
+
+## Recent Work
+
+I built an AI underwriting engine for a small-business fintech startup, matching applicants to qualified lenders via LLM-driven decisioning. Currently leading agentic underwriting development at Sage, running multi-AUS routing strategy for Fannie Mae DU+ expansion, and managing home equity product portfolio alongside mortgage lending.
+
+---
+
+## Let's Talk
+
+Interested in working together? Reach out with details on your challenge, timeline, and scope.
+
+📧 [jonathan@jvasquez.net](mailto:jonathan@jvasquez.net) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/jonathanjvasquez)

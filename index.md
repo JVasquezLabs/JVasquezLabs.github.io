@@ -32,6 +32,9 @@ My work sits at the intersection of competing constraints: **borrower experience
 - **0-to-1 Product Launch (Mortgage Lending)** — First product hire on the team. Launched a 0-to-1 mortgage point-of-sale system and built a mortgage eClosing SaaS platform projected to process **$1.5B**.
 - **Regulatory & Compliance Product Strategy** — Delivered a trade compliance reporting solution aligned with European Securities and Markets Authority (ESMA) requirements, and led emergency development of a patient self-service portal that handled 1,200 daily inquiries during the pandemic.
 
+### What I'm Building Now
+Currently building an agentic underwriting system that doesn't just recommend — it reads documents, calculates income, and acts on its own output, advancing files and requesting documents without a human in the loop. Also running Sage's Fannie Mae DU+ expansion, a multi-AUS routing strategy that evaluates every loan across two systems to find the better outcome. Home equity business is funded and expanding partnerships.
+
 <img src="https://ghchart.rshah.org/4f46e5/JVasquezLabs" alt="Jonathan Vasquez's GitHub contribution activity" class="github-chart" loading="lazy" onerror="this.style.display='none'; document.getElementById('github-chart-fallback').hidden=false;">
 <p id="github-chart-fallback" class="github-projects__status" hidden>Couldn't load live contribution data — <a href="https://github.com/JVasquezLabs">view my GitHub</a> directly.</p>
 ### Let's Connect

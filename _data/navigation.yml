@@ -6,5 +6,7 @@ main:
     url: /case-studies/
   - title: "Roadmap"
     url: /roadmap/
+  - title: "Consulting"
+    url: /consulting/
   # - title: "About"
   #   url: /about/
