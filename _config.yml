@@ -6,10 +6,9 @@ description: "Product leader building AI-powered lending products — borrower e
 baseurl: "" # Change if your site is hosted in a subdirectory
 url: "https://jvasquezlabs.github.io"  # Your GitHub Pages site URL
 
-# Heap Analytics — set your App ID from https://heapanalytics.com (Projects > Install)
-# to turn on tracking. Leave blank to keep it off. Only loads on production builds
-# (GitHub Pages sets JEKYLL_ENV=production automatically).
-heap_app_id: ""
+# Heap Analytics — Environment ID: 224135298
+# Tracks user engagement with case studies and content
+# Loaded automatically via _includes/head/custom.html
 
 # Theme & Plugins
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
