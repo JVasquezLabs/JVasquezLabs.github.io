@@ -36,7 +36,11 @@ The work sits at the intersection of competing constraints: borrower experience,
 Agentic underwriting system that reads documents, calculates income, and acts on its output—advancing files and requesting documents without human involvement. Multi-AUS routing strategy for mortgage lending that evaluates loans across multiple systems to optimize outcomes. Home equity product line is funded and expanding partnerships.
 
 ### What Matters Most
-Regulated industries. Constraints that force clarity. Good product leadership means hiring people smarter than you and staying out of the way. I care about the decisions nobody wants to make—the ones where every option costs something.
+Regulated industries matter. Mortgage lending, fintech, proptech. These aren't playpens for product ideas. Every feature touches compliance, capital markets, investor requirements, or customer survival. Constraints force clarity.
+
+Good product leadership is hiring people smarter than you and staying out of the way. It's coaching, not command. It's knowing when to push back on engineering and when to push back on business.
+
+I care about the decisions nobody wants to make. The ones where every option costs something. Trade-offs between borrower experience and operational efficiency. Between innovation speed and regulatory risk. Those decisions separate senior PMs from people who just ship features.
 ### Let's Connect
 I care about building products that move real business metrics, not just ship features. If you're tackling hard problems in fintech, proptech, or AI-driven decisioning, let's talk.
 
