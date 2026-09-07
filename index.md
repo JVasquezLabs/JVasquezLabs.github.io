@@ -12,9 +12,9 @@ header:
   <img src="/assets/images/profile.jpg" alt="Jonathan Vasquez" class="profile-photo">
   <div class="profile-intro__text" markdown="1">
 
-In my current role, I lead a product portfolio spanning **borrower experience, loan operations, and sales technology** across purchase, refinance, and HELOC lending — including point-of-sale conversion, automated underwriting, credit workflows, capital markets, and **AI systems that take actions, not just produce outputs**.
+I lead a product portfolio spanning borrower experience, loan operations, and sales technology across purchase, refinance, and HELOC lending. This includes point-of-sale conversion, automated underwriting, credit workflows, capital markets, and AI systems that take actions, not just produce outputs.
 
-My work sits at the intersection of competing constraints: **borrower experience, fulfillment efficiency, credit economics, compliance, investor eligibility, and engineering capacity**.
+The work sits at the intersection of competing constraints: borrower experience, fulfillment efficiency, credit economics, compliance, investor eligibility, and engineering capacity.
 
   </div>
 </div>
@@ -22,18 +22,18 @@ My work sits at the intersection of competing constraints: **borrower experience
 ### My Superpowers
 <span class="highlight-pill">AI-Powered Product Development</span> <span class="highlight-pill">Product Org Leadership</span> <span class="highlight-pill">Growth &amp; Experimentation</span>
 
-- **AI-Powered Product Development** — Shipped an agentic underwriting engine and an LLM-powered chat sales assistant, cutting underwriting review time by **50%** and driving a **~40%** conversion improvement across point-of-sale flows.
-- **Product Org Leadership** — Own strategy and roadmap for a multi-pod product organization; hire, level, and coach the PM team while partnering with engineering leadership on execution.
-- **Growth & Experimentation** — Run A/B and multivariate testing across the funnel; delivered **$6M** in incremental profit and a **9.7%** lift in lead conversion.
+- **AI-Powered Product Development**: Shipped an agentic underwriting engine and LLM-powered chat assistant that cut review time by 50% and improved conversion by ~40%.
+- **Product Org Leadership**: Own strategy and roadmap for multi-pod organization. Hire, level, and coach PM team while partnering with engineering on execution.
+- **Growth & Experimentation**: Run A/B and multivariate testing. Delivered $6M in incremental profit and 9.7% conversion lift.
 
 ### Notable Highlights
-- **AI-Powered Underwriting & Loan Automation** — Own product strategy and roadmap for a multi-pod team spanning the B2C lending funnel; manage and coach the PM team while partnering with engineering leadership on execution. Built an agentic loan application workflow, delivered **$6M** in incremental profit, and drove a **~40%** conversion improvement across point-of-sale flows.
-- **Growth & Risk Qualification (B2C Lending)** — Increased pre-qualified lead conversion by **9.7%** (an estimated **$400K**/month revenue impact), built an FCRA-compliant risk-qualification flow that enabled **$436M** in securitizations, and increased retention by **7%**.
-- **0-to-1 Product Launch (Mortgage Lending)** — First product hire on the team. Launched a 0-to-1 mortgage point-of-sale system and built a mortgage eClosing SaaS platform projected to process **$1.5B**.
-- **Regulatory & Compliance Product Strategy** — Delivered a trade compliance reporting solution aligned with European Securities and Markets Authority (ESMA) requirements, and led emergency development of a patient self-service portal that handled 1,200 daily inquiries during the pandemic.
+- **AI-Powered Underwriting & Loan Automation**: Built agentic loan application workflow for multi-pod team. Delivered $6M profit and ~40% conversion lift.
+- **Growth & Risk Qualification**: Increased lead conversion 9.7% ($400K/month impact). Built FCRA-compliant risk-qualification flow that enabled $436M securitizations and 7% retention lift.
+- **0-to-1 Mortgage Lending**: Launched mortgage point-of-sale system and eClosing platform projected to process $1.5B.
+- **Regulatory & Compliance**: Delivered trade compliance reporting solution aligned with ESMA requirements. Built patient self-service portal handling 1,200 daily inquiries during pandemic.
 
 ### What I'm Building Now
-Currently building an agentic underwriting system that doesn't just recommend — it reads documents, calculates income, and acts on its own output, advancing files and requesting documents without a human in the loop. Also shipping multi-AUS routing strategy for mortgage lending, evaluating every loan across multiple decisioning systems to optimize outcomes. Home equity product line is funded and expanding partnerships.
+Agentic underwriting system that reads documents, calculates income, and acts on its output—advancing files and requesting documents without human involvement. Multi-AUS routing strategy for mortgage lending that evaluates loans across multiple systems to optimize outcomes. Home equity product line is funded and expanding partnerships.
 
 <a href="https://github.com/JVasquezLabs" style="display: block; text-decoration: none;">
   <img src="https://ghchart.rshah.org/4f46e5/JVasquezLabs" alt="Jonathan Vasquez's GitHub contribution activity" class="github-chart" loading="lazy" onerror="this.style.display='none'; document.getElementById('github-chart-fallback').hidden=false;">
