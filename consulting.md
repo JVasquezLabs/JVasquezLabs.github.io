@@ -7,7 +7,7 @@ header:
   overlay_filter: "linear-gradient(135deg, rgba(15, 23, 42, 0.75), rgba(79, 70, 229, 0.45))"
 ---
 
-Open to fractional PM work, advisory, and consulting engagements — particularly **AI-powered underwriting, agentic workflows, and mortgage/fintech product strategy**.
+Open to fractional PM work, advisory, and consulting engagements in **regulated industries** — mortgage lending, fintech, and proptech. Expertise in **AI-powered underwriting, agentic workflows, and product strategy** built on 10+ years navigating compliance, investor requirements, and capital markets integration.
 
 ## What I Take On
 
